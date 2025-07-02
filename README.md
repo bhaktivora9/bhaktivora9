@@ -1,17 +1,7 @@
 # Hi there, I'm Bhakti 
 ### *[BHUK-tee]* • [Listen to pronunciation](https://www.howtopronounce.com/bhakti/40676044)
 
-<details>
-<summary>Alternative pronunciation guide</summary>
-
-**Bhakti** - sounds like "BHUK-tee" (like "book" + "tea")  
-
-
-*Audio pronunciation available at the link above*
-
-</details>
-
-## Senior Backend Engineer | Infrastructure Architect | AI Enthusiast
+## Senior Backend Engineer | AI Enthusiast
 
 I'm passionate about building **scalable distributed systems** and **AI-powered infrastructure** that enables teams to ship features rapidly while maintaining reliability at enterprise scale.
 
