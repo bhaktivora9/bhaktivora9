@@ -29,45 +29,6 @@ A passionate Backend engineer with 6+ years of experience and AI enthusiast.
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=elasticsearch&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white)
 
-### Currently Working On
-- **GenREADme**: AI-native context-aware documentation system that generates intelligent, ecosystem-informed READMEs.
-### Currently Learning/Experimenting With
-- MCP driven AI native systems.
-
-
-### Technical Expertise
-
-**Core Technologies**
-```java
-// Backend & Frameworks
-Java | Spring Boot | Spring Framework | Hibernate | Maven
-
-// Infrastructure & DevOps  
-Kubernetes | Docker | Apache Kafka | AWS | Microservices
-
-// Data & Search
-PostgreSQL | MongoDB | Elasticsearch 
-
-// AI & ML
-Machine Learning | Feature Stores | Model Serving | Real-time Inference
-```
-
-**Cloud & DevOps**
-```yaml
-Cloud Platforms: AWS (EC2, Lambda, S3, SNS), GCP (Compute Engine, Cloud Functions, Cloud Storage)
-Orchestration: Kubernetes, Docker
-Monitoring: Grafana, Dynatrace, SPLUNK
-CI/CD: GitHub Actions, Gradle, Maven
-Message Queues: Apache Kafka, ActiveMQ
-```
-
-### Key Achievements
-
-**35x Performance Improvement** - Optimized database writes through multithreading architecture  
-**Event-Driven Architecture** - Built scalable inter-service communication with Apache Kafka  
-**AI Infrastructure** - Designed ML recommendation engine with real-time personalization  
-**Data Platform** - Architected ORBIT platform centralizing operational data for BI analytics  
-
 ### Featured Projects
 
 #### [GenREADme - AI Documentation Generator](https://gitlab.com/bhaktivora09/genreadme/)
@@ -97,7 +58,7 @@ Message Queues: Apache Kafka, ActiveMQ
 - Enhanced performance 35x through multithreading optimization
 - Built fault-tolerant microservices with Kubernetes orchestration
 
-**Senior Software Engineer @ Contentserv Technologies** `2018-2021`
+**Senior Software Engineer @ Contentserv Technologies** `2017-2021`
 - Designed ML-powered recommendation engine for real-time personalization
 - Migrated workflows to AWS Lambda, reducing infrastructure overhead
 - Built connectors for Magento, Shopify, and Amazon marketplaces
