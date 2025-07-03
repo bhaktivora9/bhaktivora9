@@ -3,11 +3,19 @@
 
 ## Senior Backend Engineer | AI Enthusiast
 
-I'm passionate about building **scalable distributed systems** and **AI-powered infrastructure** that enables teams to ship features rapidly while maintaining reliability at enterprise scale.
+A passionate Backend engineer with 6+ years of experience and AI enthusiast. 
 
+🔭 I’m currently working on AI native documentation system
+🌱 I’m currently learning LLM, RAG, MCP
+📫 How to reach me bhaktivora16@gmail.com
+
+
+Languages and Tools:
+aws gcp docker git grafana java kubernetes mongodb sql php postgresql python spring maven elasticsearch apache-kafka
 ### Currently Working On
 - **GenREADme**: AI-native context-aware documentation system that generates intelligent, ecosystem-informed READMEs.
-
+### Currently Learning/Experimenting With
+- MCP driven AI native systems.
 
 
 ### Technical Expertise
