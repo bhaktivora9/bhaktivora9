@@ -8,7 +8,8 @@ A passionate Backend engineer with 6+ years of experience and AI enthusiast.
 🔭 I’m currently working on AI native documentation system  
 🌱 I’m currently learning LLM, RAG, MCP.  
 📫 How to reach me [bhaktivora16@gmail.com](mailto:bhaktivora16@gmail.com)  
-👨‍💻 Learn more about me here [Bhakti's Protfolio](https://bhaktivora9.github.io/bhakti-portfolio/)  
+👨‍💻 Learn more about me here [Bhakti's Protfolio](https://bhaktivora9.github.io/bhakti-portfolio/?utm_source=github&utm_medium=social&utm_campaign=portfolio&utm_content=bio_link
+)
 
 ## 🛠️ Languages and Tools
 
